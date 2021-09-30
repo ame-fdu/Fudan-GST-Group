@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2019届硕士毕业生
+role: 2022届硕士毕业生
 
 # Organizations/Affiliations
 organizations:

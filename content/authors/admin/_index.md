@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 李晶（照片测试待更改）
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of 测试待更改
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Fudan University
+  url: "www.fudan.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include GST，Cs 测试待更改
 
 interests:
-- Artificial Intelligence
+- Artificial Intelligence 测试待更改
 - Computational Linguistics
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Artificial Intelligence 测试待更改
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -60,7 +60,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +68,7 @@ user_groups:
 - Researchers
 ---
 
+李老师的自我介绍（测试的）
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
