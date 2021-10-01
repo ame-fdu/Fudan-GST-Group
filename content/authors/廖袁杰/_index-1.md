@@ -7,7 +7,7 @@ authors:
   - Yuanjie Liao
 title: 廖袁杰
 role: 预计2022届硕士毕业生
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: 编程技术爱好者，立志内卷于互联网。
 interests:
   - code
