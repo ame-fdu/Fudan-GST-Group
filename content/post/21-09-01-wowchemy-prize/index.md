@@ -1,6 +1,6 @@
 ---
-title: 刚把网站具体结构弄出来
-date: 1212-06-06
+title: 廖袁杰发布了网站的测试版本
+date: 2021-09-30
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.

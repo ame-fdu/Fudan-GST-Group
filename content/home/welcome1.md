@@ -15,8 +15,7 @@ height: 400px
 
 item:
   - title: Hello!
-    content: 'This is Fudan GST Group<br/>这是我们小组的自我介绍,左上角可以查看具体分块
-    <br />
+    content: 'This is Fudan GST Group<br/>这是我们小组的自我介绍,最上面可以查看具体分块
     <br />
     <br />'
     # Choose `center`, `left`, or `right` alignment.
@@ -30,7 +29,7 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Official Website
+    cta_label: School Official Website
     cta_url: 'https://www.fudan.edu.cn/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
@@ -41,8 +40,9 @@ item:
     overlay_color: '#555'
     overlay_img: ''
     overlay_filter: 0.5
+
   - title: Right
-    content: 'I am right aligned 😄'
+    content: '或许可以放点啥😄'
     align: right
     overlay_color: '#333'
     overlay_img: ''

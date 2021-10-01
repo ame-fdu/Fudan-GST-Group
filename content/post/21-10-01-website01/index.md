@@ -1,6 +1,8 @@
 ---
-title: 有啥子提议吗
-date: 2020-12-02
+title: 试了一下作者跳转
+authors:
+- 廖袁杰
+date: 2021-01-01
 image:
   focal_point: "top"
 ---

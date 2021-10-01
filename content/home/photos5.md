@@ -22,7 +22,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: albums/photos/coders.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: home/photos/coders.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 1  # Darken the image. Value in range 0-1.
 
 
@@ -30,13 +30,13 @@ item:
     content: '放一些其他的东西😄'
     align: center
     overlay_color: '#555'
-    overlay_img: albums/photos/coders.jpg
+    overlay_img: home/photos/coders.jpg
     overlay_filter: 0.5
 
   - title: 测试3
     content: 'I am right aligned 😄'
     align: center
     overlay_color: '#333'
-    overlay_img: albums/photos/coders.jpg
+    overlay_img: home/photos/coders.jpg
     overlay_filter: 0.5
 ---

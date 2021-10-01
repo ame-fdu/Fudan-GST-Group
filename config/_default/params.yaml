@@ -20,28 +20,28 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: test@example.org 测试待更改
+phone: 888 888 88 88 测试待更改
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  street: 邯郸路220号
+  city: 杨浦区
+  region: 上海
+  postcode: '200000'
+  country: China
+  country_code: +86
+# coordinates:
+#   latitude: '31.20294'
+#   longitude: '121.463295'
+directions: 科学楼403
 office_hours:
-  - 'Monday 10:00 to 13:00'
+  - 'Monday 10:00 to 13:00' 
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+# appointment_url: 'https://calendly.com'
 contact_links:
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+ - icon: envelope
+   icon_pack: fas
+   name: Discuss on Forum
+   link: 'mailto:493907205@qq.com'
 
 # Site header
 
@@ -94,8 +94,8 @@ projects:
 comments:
   provider: ''
   commentable:
-    page: true
-    post: true
+    page: false
+    post: false
     docs: true
     project: true
     publication: true

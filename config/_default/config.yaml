@@ -5,7 +5,7 @@
 
 title: Fudan GST Group # Website name
 baseurl: '' # Website URL
-copyright: '©2021 ame_fdu' # Footer text, e.g. '© {year} Me'
+copyright: '©2021 ame-fdu' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
