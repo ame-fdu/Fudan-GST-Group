@@ -8,14 +8,14 @@ authors:
 title: 张书博
 role: 2020级博士
 avatar_filename: avatar.jpeg
-bio: 编程技术爱好者，立志内卷于互联网。
+bio: 心比天高，脚踏实地
 interests:
   - 学习
-  - 吃饭
+  - 做实验
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:493907205@qq.com
+    link: mailto:20110720017@fudan.edu.cn
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/ame-fdu
